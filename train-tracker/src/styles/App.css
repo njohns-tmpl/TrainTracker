@@ -1,4 +1,11 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+
+* {
+  font-family: 'Happy Monkey', system-ui, -apple-system, sans-serif !important;
+} */
 @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+
+/* Can this commit properly pls */
 
 * {
   font-family: 'Happy Monkey', system-ui, -apple-system, sans-serif !important;
